@@ -10,8 +10,12 @@
           <option name="url" value="http://gerrit.vtb-dbo.projects.epam.com/#/admin/projects/microservice-account" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://portnyagin@gerrit.vtb-dbo.projects.epam.com:31211/microservice-deposit" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="F:\JB_WS\VTB_DBO" />
+    <option name="cloneParentDir" value="$USER_HOME$/sources/gerrit.vtb-dbo.projects.epam.com" />
   </component>
 </application>
