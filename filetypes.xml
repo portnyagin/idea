@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="tmp" type="JavaScript" />
+      <mapping pattern="tmp1" type="PLAIN_TEXT" />
+      <mapping pattern="tmp2" type="PLAIN_TEXT" />
       <mapping pattern="аыфва" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
